@@ -1,0 +1,4 @@
+homepage: "https://github.com/AdaLogics/oss-fuzz-auto"
+main_repo: 'https://github.com/AdaLogics/oss-fuzz-auto'
+primary_contact: "adam@adalogics.com"
+language: c
